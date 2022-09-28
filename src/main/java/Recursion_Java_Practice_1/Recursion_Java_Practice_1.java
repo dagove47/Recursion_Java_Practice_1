@@ -30,7 +30,7 @@ public class Recursion_Java_Practice_1 {
                 break;
             case "d":
                 ExerciseD exerciseD  = new ExerciseD();
-                //exerciseD...();
+                exerciseD.SolutionD();
                 break;
         }
     }
@@ -45,9 +45,7 @@ public class Recursion_Java_Practice_1 {
                 "b. Crear un método que obtenga la suma de los números naturales desde 1 hasta N. \n" +
                 "c. Compruebe si un número es binario. Un número binario está formado únicamente por ceros y unos. \n" +
                 "d. Convierta el siguiente código de ciclos for en funciones recursivas. \n\n" +
-                "Digite  'a',  'b',  'c'  o  'd' \n").toLowerCase();
-            System.out.println(practiceSelect);
-            
+                "Digite  'a',  'b',  'c'  o  'd' \n").toLowerCase();            
             if((practiceSelect.equals("a")) || (practiceSelect.equals("b")) || (practiceSelect.equals("c")) || (practiceSelect.equals("d"))) {
                 repeat = false;
             } else {

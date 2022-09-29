@@ -8,7 +8,7 @@ package Recursion_Java_Practice_1;
 public class ExerciseB {
     
     public static void main(String[] args) {
-        int num = Integer.parseInt(JOptionPane.showInputDialog("Digite el el "
+        int num = Integer.parseInt(JOptionPane.showInputDialog("Digite el "
         + "hasta el que quiere sumar")); 
         int suma = (Adicion(num));
         System.out.println("El resultado de la suma deseada es = " + suma);

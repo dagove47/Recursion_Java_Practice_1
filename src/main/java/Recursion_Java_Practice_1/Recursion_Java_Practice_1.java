@@ -18,7 +18,7 @@ public class Recursion_Java_Practice_1 {
         switch (practiceSelect) {
             case "a":
                 ExerciseA exerciseA  = new ExerciseA();
-                //exerciseA...();
+                exerciseA.solucionA();
                 break;
             case "b":
                 ExerciseB exerciseB  = new ExerciseB();

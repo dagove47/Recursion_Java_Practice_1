@@ -9,5 +9,9 @@ package Recursion_Java_Practice_1;
  * @author David Gomez, Gabriel Brilla, Gerald Blanco, Alexander Torres
  */
 public class ExerciseA {
+
+    public static void solucionA(){
+
+    }
     
 }

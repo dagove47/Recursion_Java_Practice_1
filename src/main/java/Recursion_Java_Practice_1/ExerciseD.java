@@ -35,7 +35,13 @@ public class ExerciseD {
         return resultR;
     }
     public static double factorialR(double num) {
-        if (num >= 1) {
+        if (num < 0) {
+            JOptionPane.showMessageDialog(null, "Valor incorrecto \n\n" +
+                    "El numero al que desea aplicar factorial es negativo");
+            System.exit(0);
+        } else if (num == 0) {
+            facR *= 1;
+        } else {
             facR = facR * (num);
             factorialR(num - 1);
         }

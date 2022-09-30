@@ -22,7 +22,7 @@ public class Recursion_Java_Practice_1 {
                 break;
             case "b":
                 ExerciseB exerciseB  = new ExerciseB();
-                exerciseB.SolucionB
+                exerciseB.SolucionB()
                 break;
             case "c":
                 ExerciseC exerciseC  = new ExerciseC();

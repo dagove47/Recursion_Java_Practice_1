@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90cb71c9-27eb-4d68-a3a4-c5cfbf8b6ac0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Recursion_Java_Practice_1/helper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Recursion_Java_Practice_1/ExerciseB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Recursion_Java_Practice_1/ExerciseB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Recursion_Java_Practice_1/ExerciseC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Recursion_Java_Practice_1/ExerciseC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Recursion_Java_Practice_1/Recursion_Java_Practice_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Recursion_Java_Practice_1/Recursion_Java_Practice_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Recursion_Java_Practice_1/ExerciseA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Recursion_Java_Practice_1/ExerciseA.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -1,5 +1,6 @@
-import javax.swing.JOptionPane;
 package Recursion_Java_Practice_1;
+
+import javax.swing.JOptionPane;
 
 /**
  *

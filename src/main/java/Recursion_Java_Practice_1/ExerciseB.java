@@ -9,10 +9,9 @@ import javax.swing.JOptionPane;
 public class ExerciseB {
     
     public static void SolucionB() {
-        int num = Integer.parseInt(JOptionPane.showInputDialog("Digite el "
-        + "hasta el que quiere sumar")); 
+        int num = Integer.parseInt(JOptionPane.showInputDialog("Digite el numero del cual quiera obtenga la suma de los números naturales desde 1 hasta ese numero.\n\n")); 
         int suma = (Adicion(num));
-        System.out.println("El resultado de la suma deseada es = " + suma);
+        JOptionPane.showMessageDialog(null, "El resultado de la suma deseada es = " + suma);
     }
     
     public static int Adicion(int num){

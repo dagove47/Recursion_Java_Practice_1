@@ -11,15 +11,14 @@ import javax.swing.*;
  * @author David Gomez, Gabriel Brilla, Gerald Blanco, Alexander Torres
  */
 public class ExerciseA {
+    
     public void solucionA(){
         //Llamando datos
-        ExerciseA ejeA=new ExerciseA();
-        String cadena = JOptionPane.showInputDialog("Ingrese una palabra: ");
-        char[] array = cadena.toCharArray();
-        array = ejeA.eliminarVocales(0, array);
-        String nuevaCadena = String.valueOf(array);
-        System.out.println("Palabra sin vocales: "+nuevaCadena.replace(" ",""));
+        char[] oracion = (JOptionPane.showInputDialog("Ingrese una oracion: ")).toCharArray();
+        String nuevaOracion = String.valueOf(eliminarVocales(0, oracion));
+        JOptionPane.showMessageDialog(null, "oracion sin vocales: " + nuevaOracion.replace(" ",""));
     }
+    
     //Utilizando Recursividad
     public char[] eliminarVocales(int i, char[] array) {
         if (i == array.length) {

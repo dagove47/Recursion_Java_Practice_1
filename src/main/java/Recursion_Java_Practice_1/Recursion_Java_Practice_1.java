@@ -21,16 +21,14 @@ public class Recursion_Java_Practice_1 {
                 exerciseA.solucionA();
                 break;
             case "b":
-                ExerciseB exerciseB  = new ExerciseB();
-                exerciseB.SolucionB();
+                ExerciseB.SolucionB();
                 break;
             case "c":
                 ExerciseC exerciseC  = new ExerciseC();
                 exerciseC.solutionC();
                 break;
             case "d":
-                ExerciseD exerciseD  = new ExerciseD();
-                exerciseD.SolutionD();
+                ExerciseD.SolutionD();
                 break;
         }
     }
